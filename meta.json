@@ -1,7 +1,7 @@
 {
     "args": [], 
     "kwargs": {
-        "bnc_fileids": "E/\\E9/\\E9N\\.xml"
+        "bnc_fileids": "E/\\E9/\\w+\\.xml"
     }, 
-    "result": 2705
+    "result": 23712
 }
